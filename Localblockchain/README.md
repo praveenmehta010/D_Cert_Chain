@@ -6,7 +6,7 @@ It has contract as certificate.sol
 
 Hardhat Ignition module that deploys that contract on scripts/deyloy.js
 
-Try running some of the following tasks:
+run this to start local chain:
 
 ```shell
 npx hardhat node
